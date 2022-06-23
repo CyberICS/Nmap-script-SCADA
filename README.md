@@ -1,1 +1,1 @@
-# Nmap-script-SCADA
+# Nmap script for SCADA
